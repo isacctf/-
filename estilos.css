@@ -1,13 +1,14 @@
 img{
   display: block;
   margin: auto;
-  width: 15em;
+  width: 33vh;
 }
 
 body {
-  background-image: url(fundo.jpg);
+  background-image: linear-gradient(rgba(7,5,8),rgba(78,55,81));
   background-repeat: no-repeat;
   background-size: cover;
+  height: 100vh;
 
 }
 p, h1,a{
@@ -18,12 +19,12 @@ p, h1,a{
 }
 
 h1{
-  font-size: 5em;
-  margin-top: 0.25em;
+  font-size: 9vh;
+  margin-top: 3.5vh;
 }
 
 p{
-  font-size: 2em;
+  font-size: 5.5vh;
 }
 
 a{
