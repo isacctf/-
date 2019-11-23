@@ -1,7 +1,7 @@
 img{
   display: block;
   margin: auto;
-  width: 33vh;
+  width: 32vh;
 }
 
 body {
@@ -19,7 +19,7 @@ p, h1,a{
 }
 
 h1{
-  font-size: 9vh;
+  font-size: 8vh;
   margin-top: 3.5vh;
 }
 
